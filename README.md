@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [raphael-durand.fr](https://github.com/IacceptCookie/site-portfolio.git)
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://raphael-durand.fr/](https://raphael-durand.fr/)
-
-- 📝 I regularly write articles on [https://raphael-durand.fr/](https://raphael-durand.fr/)
 
 - 📫 How to reach me **contact@raphael-durand.fr**
 
